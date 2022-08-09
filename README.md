@@ -1,10 +1,14 @@
 # SeoHyun Kim
 ## Data Scientist
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 <img src="https://img.shields.io/badge/-PyTorch-%23EE4C2C">
+<img src="https://img.shields.io/badge/-TensorFlow-%23FF6F00">
+
+<a href="https://www.instagram.com/Assertive.k_/">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F">
+
+<img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/></a>&nbsp
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
