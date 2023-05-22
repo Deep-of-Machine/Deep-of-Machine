@@ -49,7 +49,7 @@
 
 ## 📊 GitHub 사용 언어 비율
 <!-- 여기에 자신의 깃허브 사용 언어 비율을 삽입하세요. -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-of-Machine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-of-Machine&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Baekjoon Online Judge
 <!-- 여기에 자신의 백준 온라인 저지 티어를 삽입하세요. -->
