@@ -56,6 +56,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus5569)](https://solved.ac/tjgus5569)
 
+![SeoHyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deep-of-Machine&show_icons=true&bg_color=90,ff9a9e,fad0c4,ffd1ff&title_color=fff&text_color=fff&icon_color=f8f8f8)
+
 ---
 
 🔭 현재 다양한 프로젝트에 참여하고 있습니다.
