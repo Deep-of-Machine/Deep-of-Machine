@@ -2,17 +2,38 @@
 
 ## 🛠 기술 스택(Tech Stack)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-47A248?style=flat-square&logo=Python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-11557C?style=flat-square&logo=Pillow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+
 
 ## 🎖 주요 수상 경력
 - 2023: SW중심대학 공동해커톤 1위 대상 과학기술정보통신부 장관상 수상
@@ -31,6 +52,7 @@
 ## 👨‍💻 주요 활동 경력
 - 2023: <얄코의 Too Much 친절한 깃/깃허브> 베타리더
 - 2023: LG Aimers 2기 수료 / DACON 연계 해커톤 (32등/1006명)
+- 2023: 제 1회 HYAI X 한양대학교 'HYAI Challenge' 인공지능 경진대회 주최 및 성료
 - 2022: 한양대학교 인공지능학회 HYAI 'HanYang Artificial Intelligence' 초대회장
 - 2022: 한양대학교 자작자동차학회 Baqu4 자율주행 인지팀, 판단팀 기여
 - 2022: 한양대학교 ERICA 제 8회 Software 창업 아이디어톤 대회 수료
@@ -45,14 +67,12 @@
 - 2020: DSA-CS(Data Science Ambassadors Computer Science) 수료
 
 ## 🏃‍♂️ 현재 진행 활동
-- 2023: 한양대학교 HYAI 인공지능학회 1~2기 회장
+- 2023: 제 10회 대한민국 SW융합 해커톤 자유 주제 부문 본선 진출
+- 2023: 한양대학교 HYAI 인공지능학회 회장
 - 2023: 한양대학교 Baqu4 자작자동차학회 자율주행팀 팀장
 - 2023: 대학생 창작 모빌리티 경진대회 자율주행성능부문 참가 중
-- 2023: SW중심대학 공동 AI 경진대회 참가 중
 - 2023: 한양대학교 창업 HYAI팀 플랫폼 창업 중
-- 2023: JourneyBooks팀 창업 연구 개발 중
 - 2023: 제 1회 수도권 대학 연합 인공지능 경진대회 기획 중
-- 2023: 제 1회 HYAI 인공지능학회 X 한양대학교 'HYAI Challenge' 인공지능 경진대회 개최
 - 2023: 한양대학교 휴아로 전공알림단 10기 멘토 활동 중
 - 2023: LG Aimers 3기 지원
 - Naver 지식in Expert (IT개발/외주)
