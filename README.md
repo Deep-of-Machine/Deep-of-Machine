@@ -1,5 +1,19 @@
 # 안녕하세요, 저는 SeoHyun Kim입니다. 👋
 
+## 🏃‍♂️ 현재 진행 활동
+- 한양대학교 HYAI 인공지능학회 회장
+- 한양대학교 HyperNote 창업팀 대표
+- 한양대학교 GAIPF 창업팀 대표
+- Dart 공부 중
+- Flutter 공부 중
+- Node.js 공부 중
+- Figma 공부 중
+- Langchain 공부 중
+- Fast Campus - 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE 수강 중
+- Fast Campus - 한 번에 끝내는 자연어 처리 초격차 패키지 수강 중
+- Fast Campus - 딥러닝·인공지능 Signature 초격차 패키지 수강 중
+- Fast Campus - 혁펜하임의 AI DEEP DIVE 수강 중
+
 ## 🛠 기술 스택(Tech Stack)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -39,12 +53,15 @@
 
 [2023]
 - SW중심대학 공동해커톤 1위 대상 과학기술정보통신부 장관상
-- 대학생 창작 모빌리티 경진대회 자율주행 성능부문 베스트루키상 KASA 자동차안전공학회 회장상
+- 초광역 GPT-AI 활용 창업 경진대회 1위 대상 마이크로소프트 대표이사상/동국대학교 총장상
+- 대학생 창작 모빌리티 경진대회 자율주행 성능부문 신인 1위 베스트루키상 KASA 자동차안전공학회 회장상
 - 제 10회 대한민국 SW융합 해커톤 자유주제 부문 공동 2위 우수상 세종특별자치시장상
 - 전국 대학생 SW 창업 아이디어톤 1위 대상 한양대학교 총장상
 - 한양대학교 제 11회 SW 창업 아이디어톤 경진대회 1위 대상 한양대학교 총장상
 - 폭스바겐 SEA:ME Summer Hackathon 동상 폭스바겐코리아 CEO상/국민대학교 총장상
+- 공학대학 학술제 1위 대상 한양대학교 ERICA 공학대학 학장상
 - 한양대학교 ERICA 포트폴리오 경진대회 1위 소프트웨어융합대학 학장상
+- 창업 우수상 한양대학교 ERICA SW중심대학사업단장상
 - SID Audition 원페이퍼 창업경진대회 SID상 ERICA 창업교육센터장상
 - IC-PBL 커리어로드맵 콘테스트 우수상 한양인재개발원장상
   
@@ -66,6 +83,7 @@
 - <얄코의 Too Much 친절한 깃/깃허브> 베타리더
 - LG Aimers 2기 수료 / DACON 연계 해커톤 (32등/1006명)
 - 제 1회 HYAI X 한양대학교 'HYAI Challenge' 인공지능 경진대회 주최 및 성료
+- 제 1회 수도권 대학 연합 인공지능 경진대회 주최 및 성료
   
 [2022] 
 - 한양대학교 인공지능학회 HYAI 'HanYang Artificial Intelligence' 초대회장
@@ -84,16 +102,6 @@
 [2020] 
 - NAVER NSML/KERIS AI Hackathon 완주상
 - DSA-CS(Data Science Ambassadors Computer Science) 수료
-
-## 🏃‍♂️ 현재 진행 활동
-- 한양대학교 HYAI 인공지능학회 회장
-- 한양대학교 창업 HYAI팀 플랫폼 창업 중
-- 제 1회 수도권 대학 연합 인공지능 경진대회 기획 중
-- 한양대학교 휴아로 전공알림단 10기 멘토 활동 중
-- Fast Campus - 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE 수강 중
-- Fast Campus - 한 번에 끝내는 자연어 처리 초격차 패키지 수강 중
-- Fast Campus - 딥러닝·인공지능 Signature 초격차 패키지 수강 중
-- Fast Campus - 혁펜하임의 AI DEEP DIVE 수강 중
 
 ## 📊 GitHub 사용 언어 비율
 <!-- 여기에 자신의 깃허브 사용 언어 비율을 삽입하세요. -->
