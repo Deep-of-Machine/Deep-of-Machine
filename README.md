@@ -5,7 +5,7 @@
 - 한양대학교 HyperNote 창업팀 대표
 - 한양대학교 GAIPF 창업팀 대표
 - Dart 공부 중
-- Flutter 공부 중
+- Flutter 공부 중
 - Node.js 공부 중
 - Figma 공부 중
 - Langchain 공부 중
