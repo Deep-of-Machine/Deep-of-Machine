@@ -1,5 +1,7 @@
 # 안녕하세요, 저는 SeoHyun Kim입니다. 👋
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## 🏃‍♂️ 현재 진행 활동
 - 한양대학교 HYAI 인공지능학회 회장
 - 한양대학교 HyperNote 창업팀 대표
