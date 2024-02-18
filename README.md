@@ -1,55 +1,61 @@
-# 안녕하세요, 저는 SeoHyun Kim입니다. 👋
+# 🚀 Welcome to My GitHub Repository!
+
+## 안녕하세요, 저는 SeoHyun Kim입니다. 
+
+### 🛠 기술 스택 (Tech Stack)
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+#### Robotics & Hardware
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=ArduinoYAW&logoColor=white)
+
+#### Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-FF4B4B?style=for-the-badge&logo=Langchain&logoColor=white)
+
+#### Web & Application Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+
+#### Development Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
+
+#### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Beautiful Soup](https://img.shields.io/b
+
+adge/Beautiful%20Soup-47A248?style=for-the-badge&logo=Python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-11557C?style=for-the-badge&logo=Pillow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+
 ## 🏃‍♂️ 현재 진행 활동
-- 한양대학교 HYAI 인공지능학회 회장
-- 한양대학교 HyperNote 창업팀 대표
-- 한양대학교 GAIPF 창업팀 대표
-- Dart 공부 중
-- Flutter 공부 중
-- Node.js 공부 중
-- Figma 공부 중
-- Langchain 공부 중
-- Fast Campus - 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE 수강 중
-- Fast Campus - 한 번에 끝내는 자연어 처리 초격차 패키지 수강 중
-- Fast Campus - 딥러닝·인공지능 Signature 초격차 패키지 수강 중
-- Fast Campus - 혁펜하임의 AI DEEP DIVE 수강 중
-
-## 🛠 기술 스택(Tech Stack)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=ArduinoYAW&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-47A248?style=flat-square&logo=Python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-11557C?style=flat-square&logo=Pillow&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-
+- 한양대학교 인공지능학회 HYAI 초대회장
+- Singularity LLC 대표 이사
 
 ## 🎖 주요 수상 경력
 
