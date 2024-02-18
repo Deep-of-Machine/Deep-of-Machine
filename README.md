@@ -98,18 +98,10 @@
 - NAVER NSML/KERIS AI Hackathon 완주
 - DSA-CS(Data Science Ambassadors Computer Science) 수료
 
-## 📊 GitHub 사용 언어 비율
-<!-- 여기에 자신의 깃허브 사용 언어 비율을 삽입하세요. -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-of-Machine&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💻 Baekjoon Online Judge
 <!-- 여기에 자신의 백준 온라인 저지 티어를 삽입하세요. -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus5569)](https://solved.ac/tjgus5569)
-
-## 🧑🏻‍💻 GitHub Stats
-<!-- 여기에 자신의 깃허브 상태를 삽입하세요. -->
-![SeoHyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deep-of-Machine&show_icons=true&bg_color=90,ff9a9e,fad0c4,ffd1ff&title_color=fff&text_color=fff&icon_color=f8f8f8)
 
 ---
 
