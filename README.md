@@ -2,7 +2,7 @@
 
 ## 안녕하세요, 저는 SeoHyun Kim입니다. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SPVNh3Zk9Mk?autoplay=1" frameborder="0" allowfullscreen></iframe>
+[동영상 시청하기](https://www.youtube.com/watch?v=SPVNh3Zk9Mk)
 
 ### 🛠 기술 스택 (Tech Stack)#### Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
