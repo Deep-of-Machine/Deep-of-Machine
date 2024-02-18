@@ -2,6 +2,8 @@
 
 ## 안녕하세요, 저는 SeoHyun Kim입니다. 
 
+[![인터뷰 미리보기](https://img.youtube.com/vi/SPVNh3Zk9Mk/0.jpg)](https://www.youtube.com/watch?v=SPVNh3Zk9Mk)
+
 ### 🛠 기술 스택 (Tech Stack)#### Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black)](https://www.java.com/)
@@ -80,7 +82,6 @@
 | 2020 | 소프트웨어 동아리 산출물 대회 | 3위 | 교육감상 |
 
 ## 👨‍💻 주요 활동 경력
-주요 활동 경력을 표로 제공해 드리겠습니다.
 
 | 연도 | 활동 내용 |
 |------|------------|
