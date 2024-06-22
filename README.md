@@ -2,13 +2,16 @@
 
 ## 안녕하세요, 저는 SeoHyun Kim입니다. 
 
+## 🏃‍♂️ 현재 진행 활동
+- Singularity Inc. 대표 이사
+
+## 해외 경험
+- 2024년 1월 미국 시애틀 Microsoft 본사 초청 교육 연수
+  (Azure AI PM 시니어 개발자, Copilot 시니어 데이터 사이언티스트 미팅)
+- 2024년 8월 미국 실리콘밸리 초청 창업 연수 예정.
+  
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-## 🏃‍♂️ 현재 진행 활동
-- 한양대학교 인공지능학회 HYAI 1~2기 초대회장
-- Singularity LLC 대표 이사
 
 
 ## 🎖 주요 수상 경력
@@ -40,21 +43,17 @@
 
 | 연도 | 활동 내용 |
 |------|------------|
-| 2023 | 한양대학교 Baqu4 자작자동차학회 자율주행팀 팀장 |
+| 2023 | 한양대학교 인공지능학회 HYAI 1기 초대회장 |
+| 2023 | 한양대학교 자작자동차학회 baqu4 자율주행팀 팀장 |
 | 2023 | LG Aimers 2기 수료 / DACON 연계 해커톤 (32등/1006명) |
 | 2023 | 제 1회 HYAI X 한양대학교 'HYAI Challenge' 인공지능 경진대회 주최 및 성료 |
 | 2023 | 제 1회 수도권 대학 연합 인공지능 경진대회 주최 및 성료 |
-| 2022 | 한양대학교 인공지능학회 HYAI 'HanYang Artificial Intelligence' 초대회장 |
-| 2022 | 한양대학교 자작자동차학회 Baqu4 자율주행 인지팀, 판단팀 기여 |
+| 2022 | 한양대학교 자작자동차학회 baqu4 자율주행 인지팀, 판단팀 기여 |
 | 2022 | 한양대학교 휴아로 전공알림단 9기 멘토 수료 |
 | 2021 | 청소년 AI 융합아카데미 수료 |
 | 2020 | NAVER NSML/KERIS AI Hackathon 완주 |
 | 2020 | DSA-CS(Data Science Ambassadors Computer Science) 수료 |
 
-## 💻 Baekjoon Online Judge
-<!-- 여기에 자신의 백준 온라인 저지 티어를 삽입하세요. -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus5569)](https://solved.ac/tjgus5569)
 
 ---
 
